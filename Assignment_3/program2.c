@@ -16,7 +16,7 @@ void DisplayEvenFactors(int iNo)
 
     for(iCnt = 1; iCnt <= (iNo/2); iCnt++)
     {
-        //Nested if statement for multiple condition
+        
         if((iNo % iCnt) == 0)
         {
             
