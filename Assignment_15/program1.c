@@ -1,3 +1,17 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//File name :   program1.c
+//Description : Accept number of rows and number of columns from user and display below pattern.
+//Author :      Sanket Khule             
+//Date :        13-06-25
+//Input :       iRow = 4         iCol = 4
+//Output :      *   #   #   #
+//              *   *   #   #
+//              *   *   *   #
+//              *   *   *   *
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 #include<stdio.h>
 
 void Display(int iRow,int iCol)
